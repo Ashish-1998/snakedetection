@@ -1,5 +1,5 @@
 # Snakes Challenge
-![Banner](banner.png)
+
 
 Based on the [AI Crowd Snake Species Identification Challenge](https://aicrowd.com/challenges/snake-species-identification-challenge)
 
