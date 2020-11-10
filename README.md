@@ -1,7 +1,6 @@
 # Snakes Challenge
 
 
-Based on the [AI Crowd Snake Species Identification Challenge](https://aicrowd.com/challenges/snake-species-identification-challenge)
 
 # Task
 The _Snake Species Identification Challenge_ or _SSIC_ is a dataset containing 82601 images of snakes with varying backgrounds, crops and viewpoints. The goal of SSIC is to classify each snake contained in each image into one of 45 classes or snake species.
@@ -36,8 +35,6 @@ If you install more packages and need to add them to the `.yml` file, you can us
 conda env export > environment.yml
 ```
 
-# Trained Models
-We trained a number of models, they are available via [Google Drive](https://drive.google.com/drive/folders/1r1JVvd6E7hiZ2slUgI0UJ0JygGjYYj3M?usp=sharing)
 
-# Report
-We included the [report](https://github.com/AngusTheMack/snake-id/blob/master/Snakes_Report.pdf) that we submitted.
+
+
